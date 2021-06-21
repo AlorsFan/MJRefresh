@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
     s.summary      = 'An easy way to use pull-to-refresh'
     s.homepage     = 'https://github.com/AlorsFan/MJRefresh'
     s.license      = 'MIT'
-    s.authors      = {'MJ Lee' => 'richermj123go@vip.qq.com'}
+    s.authors      = {'Alors' => '18310389396@163.com'}
     s.platform     = :ios, '9.0'
     s.source       = {:git => 'https://github.com/AlorsFan/MJRefresh.git', :tag => s.version}
     s.source_files = 'MJRefresh/**/*.{h,m}'
